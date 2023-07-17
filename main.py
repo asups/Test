@@ -61,3 +61,4 @@ cat.make_sound('Мяу')
 
 cow = Cow()
 cow.make_sound('Му му')
+
